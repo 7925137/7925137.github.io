@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-24T12:37:03.958Z</updated>
+  <updated>2019-04-24T12:58:15.053Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>011 增量知识</title>
+    <title>我的增量知识</title>
     <link href="http://yoursite.com/011-%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86.html"/>
     <id>http://yoursite.com/011-增量知识.html</id>
     <published>2019-04-24T09:15:14.000Z</published>
-    <updated>2019-04-24T12:37:03.958Z</updated>
+    <updated>2019-04-24T12:58:15.053Z</updated>
     
     <content type="html"><![CDATA[<h2 id="4-24-我的博客总算是建好了"><a href="#4-24-我的博客总算是建好了" class="headerlink" title="4-24 我的博客总算是建好了"></a>4-24 我的博客总算是建好了</h2><h5 id="1、我的博客总算是建好了"><a href="#1、我的博客总算是建好了" class="headerlink" title="1、我的博客总算是建好了"></a>1、我的博客总算是建好了</h5><p>经历了1个黑夜和1个白天，总算是把博客给建好了；<br>这短短2天时间真的是学习了大量的知识，我总结一下；<br><a id="more"></a> </p><blockquote><p>为啥要花2天的时间呢？</p></blockquote><p>这两天我学了N个知识点</p><ul><li>github上开通二级域名 <a href="https://7925137.github.io/" target="_blank" rel="noopener">https://7925137.github.io/</a></li><li></li><li><p>学习并安装Hexo 博客框架<br>  这个花了不少的时间，安装并各种配置的更改</p></li><li><p>学习并安装Next 模板<br> 都说这个模板好，于是各种的安装，调试，更改配置，各种小插件的尝试</p></li><li>都搞的差不多了，要开始写文章了吧</li><li> 花了一个下午的时间搞Sublime 软件，遇到的问题是装不了插件，因为我想实现的是MD文件边写可以边预览，就像在简书里一样。</li></ul><p>差不多就是这样，这2天都在干这个活，还好没放弃，总算搞成了。</p>]]></content>
     
