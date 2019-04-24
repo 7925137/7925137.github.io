@@ -365,7 +365,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/财富自由之路01.html#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count gitment-comments-count" data-xid="/财富自由之路01.html" itemprop="commentsCount"></span>
+                  <span class="post-comments-count valine-comment-count" data-xid="/财富自由之路01.html" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -504,11 +504,7 @@
 
   
     <div class="comments" id="comments">
-      
-        <div id="gitment-container"></div>
-      
     </div>
-
   
 
 
@@ -845,45 +841,30 @@
 
 
 
-<!-- LOCAL: You can save these files to your site and update links -->
-    
-        
-        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
-        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
-    
-<!-- END LOCAL -->
-
-    
-
-    
-      <script type="text/javascript">
-      function renderGitment(){
-        var gitment = new Gitmint({
-            id: window.location.pathname, 
-            owner: '7925137',
-            repo: '',
-            
-            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
-            
-            oauth: {
-            
-            
-                client_secret: '7bb6d9c7bb8434a21ab87dfc5980b53b1556e3ce',
-            
-                client_id: '6af7cbac999064999df2'
-            }});
-        gitment.render('gitment-container');
-      }
-
-      
-      renderGitment();
-      
-      </script>
-    
 
 
 
-
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: '6nQhttRA8WxSFPqW9k55fFps-gzGzoHsz',
+        appKey: '4zCfiWVWHl4aqk6Hn4ravNxg',
+        placeholder: 'Just go go',
+        avatar:'/images/222.jpg',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
