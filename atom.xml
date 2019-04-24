@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-24T14:30:14.310Z</updated>
+  <updated>2019-04-24T15:30:40.352Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>press</title>
+    <link href="http://yoursite.com/presss.html"/>
+    <id>http://yoursite.com/presss.html</id>
+    <published>2019-04-24T15:30:03.000Z</published>
+    <updated>2019-04-24T15:30:40.352Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://press.one/p/v?s=7b63b643d61c38e80734715c6fc989a39e2cbe686d72ae0d00e945d60600833a754d2061ef10a81d30b6aa6b91e4c5ea857836e731f1dfe56dd0905feac957ac1&amp;h=7fbeac8f44bb8942fca6b643c88d09e7be59b9807123553e7b6c7711dc9395e9&amp;a=cc09a2375354f8e5bb8d9d87e5f1ac416b627a68&amp;f=P1&amp;v=3" target="_blank" rel="noopener">https://press.one/p/v?s=7b63b643d61c38e80734715c6fc989a39e2cbe686d72ae0d00e945d60600833a754d2061ef10a81d30b6aa6b91e4c5ea857836e731f1dfe56dd0905feac957ac1&amp;h=7fbeac8f44bb8942fca6b643c88d09e7be59b9807123553e7b6c7711dc9395e9&amp;a=cc09a2375354f8e5bb8d9d87e5f1ac416b627a68&amp;f=P1&amp;v=3</a><br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://press.one/p/v?s=7b63b643d61c38e80734715c6fc989a39e2cbe686d72ae0d00e945d60600833a754d2061ef10a81d30b6aa6b91e4c5ea857836e731f1dfe56dd0905feac957ac1&amp;amp;h=7fbeac8f44bb8942fca6b643c88d09e7be59b9807123553e7b6c7711dc9395e9&amp;amp;a=cc09a2375354f8e5bb8d9d87e5f1ac416b627a68&amp;amp;f=P1&amp;amp;v=3&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://press.one/p/v?s=7b63b643d61c38e80734715c6fc989a39e2cbe686d72ae0d00e945d60600833a754d2061ef10a81d30b6aa6b91e4c5ea857836e731f1dfe56dd0905feac957ac1&amp;amp;h=7fbeac8f44bb8942fca6b643c88d09e7be59b9807123553e7b6c7711dc9395e9&amp;amp;a=cc09a2375354f8e5bb8d9d87e5f1ac416b627a68&amp;amp;f=P1&amp;amp;v=3&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="区块链" scheme="http://yoursite.com/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>我的增量知识</title>
