@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-09T02:22:01.607Z</updated>
+  <updated>2019-05-09T06:08:12.279Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,65 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://yoursite.com/Python%E4%B8%AD%E5%AD%A6%E5%88%B0%E7%9A%84%E5%8D%95%E8%AF%8D.html"/>
+    <id>http://yoursite.com/Python中学到的单词.html</id>
+    <published>2019-05-09T05:34:14.702Z</published>
+    <updated>2019-05-09T06:08:12.279Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: Python中学到的单词<br>date: 2019-05-09 13:34:14<br>tags:</p><pre><code>- Python 英文单词汇总</code></pre><p>categories:</p><pre><code>- Python- </code></pre><hr><p>ratio</p><p>英 /‘reɪʃɪəʊ/  美 /‘reʃɪo/<br>n. 比率，比例<br>复数ratios</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: Python中学到的单词&lt;br&gt;date: 2019-05-09 13:34:14&lt;br&gt;tags:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Python 英文单词汇总
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;categories:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Python
+- 
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;p&gt;ratio&lt;/p&gt;
+&lt;p&gt;英 /‘reɪʃɪəʊ/  美 /‘reʃɪo/&lt;br&gt;n. 比率，比例&lt;br&gt;复数ratios&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>尹会生Python学习笔记</title>
+    <link href="http://yoursite.com/%E5%B0%B9%E4%BC%9A%E7%94%9FPython%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html"/>
+    <id>http://yoursite.com/尹会生Python学习笔记.html</id>
+    <published>2019-05-09T03:18:28.000Z</published>
+    <updated>2019-05-09T03:35:46.988Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="04-Python程序的书写规则"><a href="#04-Python程序的书写规则" class="headerlink" title="04 Python程序的书写规则"></a>04 Python程序的书写规则</h2><p>1、 #后面是注释</p><p>2、如果是代码块，写不完一行的，下行写的时候要缩进</p><p><img src="https://upload-images.jianshu.io/upload_images/3381316-6ad59e1f942de21e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"><br><a id="more"></a></p><hr><h2 id="05-基本数据类型"><a href="#05-基本数据类型" class="headerlink" title="05 基本数据类型"></a>05 基本数据类型</h2><p><img src="https://upload-images.jianshu.io/upload_images/3381316-b2803f6af245f8f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"></p><blockquote><p><strong>工具</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">工具</span><br><span class="line">type() #识别是数据类型的时候使用</span><br><span class="line"></span><br><span class="line">#数据转换的时候用的</span><br><span class="line">int(&quot;112&quot;)</span><br><span class="line">str()</span><br><span class="line">bool()</span><br></pre></td></tr></table></figure></p></blockquote><p><strong>只有同类型的数据才可以进行操作</strong></p><hr><h2 id="06-变量的定义和常用的操作"><a href="#06-变量的定义和常用的操作" class="headerlink" title="06 变量的定义和常用的操作"></a>06 变量的定义和常用的操作</h2><p><img src="https://upload-images.jianshu.io/upload_images/3381316-73d1e559a635ceaf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"><br><img src="https://upload-images.jianshu.io/upload_images/3381316-5282a447eb2f5630.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"></p><p><img src="https://upload-images.jianshu.io/upload_images/3381316-ae5bd23fe4926e75.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image.png"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;04-Python程序的书写规则&quot;&gt;&lt;a href=&quot;#04-Python程序的书写规则&quot; class=&quot;headerlink&quot; title=&quot;04 Python程序的书写规则&quot;&gt;&lt;/a&gt;04 Python程序的书写规则&lt;/h2&gt;&lt;p&gt;1、 #后面是注释&lt;/p&gt;
+&lt;p&gt;2、如果是代码块，写不完一行的，下行写的时候要缩进&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload-images.jianshu.io/upload_images/3381316-6ad59e1f942de21e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;image.png&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="培训笔记" scheme="http://yoursite.com/categories/%E5%9F%B9%E8%AE%AD%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="尹会生Python" scheme="http://yoursite.com/categories/%E5%9F%B9%E8%AE%AD%E7%AC%94%E8%AE%B0/%E5%B0%B9%E4%BC%9A%E7%94%9FPython/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>风险以及风险控制</title>
     <link href="http://yoursite.com/%E9%A3%8E%E9%99%A9%E4%BB%A5%E5%8F%8A%E9%A3%8E%E9%99%A9%E6%8E%A7%E5%88%B6.html"/>
     <id>http://yoursite.com/风险以及风险控制.html</id>
     <published>2019-05-09T02:07:17.000Z</published>
-    <updated>2019-05-09T02:22:01.607Z</updated>
+    <updated>2019-05-09T06:08:15.553Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="关于冒险的知识汇总"><a href="#关于冒险的知识汇总" class="headerlink" title="关于冒险的知识汇总"></a>关于冒险的知识汇总</h2><p>观察者和行动者对这个词的看法是迥然不同。<br>观察者：感觉各种危险，觉得对方是在冒险<br>行动者：计划中可能会出现的各种危险，以及应对措施，行动中注意力都放在规避风险中，而不是冒险</p><blockquote><p>你的投资依据必须是依靠自己深入思考得出的结果</p></blockquote><blockquote><p>个人投资中需要注意的规避风险的原则</p><ul><li>资本安全  <ul><li>人身安全  </li></ul></li></ul></blockquote><p><img src="https://upload-images.jianshu.io/upload_images/3381316-c125a81713bf0428.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="风险.jpg"><br><a id="more"></a></p><h3 id="笑来老师对我说"><a href="#笑来老师对我说" class="headerlink" title="笑来老师对我说"></a>笑来老师对我说</h3><p>在做事之前一定要想清楚，要深入思考到你的结论已经和绝大多数人不一样，要做到“特立独行且正确”   （特立独行———— 大部分人认为有价值的事情，实际上已经没有价值）</p><p>紧靠别人教是不够的，要靠自己学，才更主动。</p><h2 id="关于风险的相关知识"><a href="#关于风险的相关知识" class="headerlink" title="关于风险的相关知识"></a>关于风险的相关知识</h2><p>1、 风险是一种客观存在的事实，既然是事实就要接受它</p><p>2、一旦有未知存在，就存在风险</p><p>误区：<strong>风险的概率决定了风险的大小</strong><br>概率：衡量风险的首要因素不是 风险的概率</p><p>3、衡量风险大小的决定性因素是堵住的大小</p><p>输得起 or 输不起</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="关于冒险的知识汇总"><a href="#关于冒险的知识汇总" class="headerlink" title="关于冒险的知识汇总"></a>关于冒险的知识汇总</h2><p>观察者和行动者对这个词的看法是迥然不同。<br>观察者：感觉各种危险，觉得对方是在冒险<br>行动者：计划中可能会出现的各种危险，以及应对措施，行动中注意力都放在规避风险中，而不是冒险</p><blockquote><p>你的投资依据必须是依靠自己深入思考得出的结果</p></blockquote><blockquote><p>个人投资中需要注意的规避风险的原则</p><ul><li>资本安全  <ul><li>人身安全  </li><li>要有场外赚钱的能力</li><li>永远不要all in</li></ul></li></ul></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">永远不要以为只有0.01%的概率，你就一定不会遇上</span><br></pre></td></tr></table></figure><p><img src="https://upload-images.jianshu.io/upload_images/3381316-c125a81713bf0428.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="风险.jpg"><br><a id="more"></a></p><h3 id="笑来老师对我说"><a href="#笑来老师对我说" class="headerlink" title="笑来老师对我说"></a>笑来老师对我说</h3><p>在做事之前一定要想清楚，要深入思考到你的结论已经和绝大多数人不一样，要做到“特立独行且正确”   （特立独行———— 大部分人认为有价值的事情，实际上已经没有价值）</p><p>紧靠别人教是不够的，要靠自己学，才更主动。</p><h2 id="关于风险的相关知识"><a href="#关于风险的相关知识" class="headerlink" title="关于风险的相关知识"></a>关于风险的相关知识</h2><p>1、 风险是一种客观存在的事实，既然是事实就要接受它</p><p>2、一旦有未知存在，就存在风险</p><p>误区：<strong>风险的概率决定了风险的大小</strong><br>概率：衡量风险的首要因素不是 风险的概率</p><p>3、衡量风险大小的决定性因素是堵住的大小</p><p>输得起 or 输不起</p><p>4、抗风险能力的高地本质就是总赌本的大小，尤其是在面临同样概率的风险的时候</p>]]></content>
     
     <summary type="html">
     
@@ -36,10 +88,13 @@
 &lt;ul&gt;
 &lt;li&gt;资本安全  &lt;ul&gt;
 &lt;li&gt;人身安全  &lt;/li&gt;
+&lt;li&gt;要有场外赚钱的能力&lt;/li&gt;
+&lt;li&gt;永远不要all in&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;永远不要以为只有0.01%的概率，你就一定不会遇上&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;&lt;img src=&quot;https://upload-images.jianshu.io/upload_images/3381316-c125a81713bf0428.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;风险.jpg&quot;&gt;&lt;br&gt;
     
     </summary>
@@ -534,27 +589,6 @@
     
     
       <category term="增量知识" scheme="http://yoursite.com/tags/%E5%A2%9E%E9%87%8F%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world.html"/>
-    <id>http://yoursite.com/hello-world.html</id>
-    <published>2019-04-20T16:20:08.370Z</published>
-    <updated>2019-04-20T16:20:08.371Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
     
   </entry>
   
